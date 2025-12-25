@@ -5,6 +5,11 @@ nav
 tags
 data/
 
+*.warc.gz
+*.paths.gz
+*.warc
+*.wet
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
